@@ -1,6 +1,6 @@
 # Sales-Performance-Dashboard-Excel-Project
 # 📊 Sales Performance Dashboard
-# <a href="#">View Project</a>
+# <a href="https://github.com/Tamang-Ajay/Sales-Performance-Dashboard-Excel-Project/blob/main/Sales%20Performance%20Dashboard.pdf">View Project</a>
 
 ## 📌Overview:
 I designed an interactive Sales Performance Dashboard to analyze total sales, total profit, and total quantity sold along with trends across regions, segments, ship modes, sub-categories, and (Quarterly and yearly) sales performance from 2014–2017, including profit by region. This dashboard provides a clear and easy-to-understand view of business through interactive and visual reports.
@@ -25,10 +25,10 @@ The challenges faced was working with large and unstructured sales data which re
 - Provided a user-friendly, real-time dashboard for better business decisions.
 
 ## ❗ Note
-The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href="#"> View Sample File</a>
+The Excel file is **not included** but sample is provided to prevent misuse or duplication. <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FTamang-Ajay%2FSales-Performance-Dashboard-Excel-Project%2Frefs%2Fheads%2Fmain%2Fdataset.xlsx&wdOrigin=BROWSELINK"> View Sample File</a>
 
 📩 *If you'd like to review the file, feel free to reach out to me directly.*
 
 ## 🔗 Contact
 - 📧 [Mail: Ajaytamang2130@gmail.com]  
-- 🌐 [LinkedIn: https://www.linkedin.com/in/ajaytamang1/]
+- 🌐 [LinkedIn: https://www.linkedin.com/in/ajay-tamang-0636772b8/]
