@@ -31,4 +31,4 @@ The Excel file is **not included** but sample is provided to prevent misuse or d
 
 ## 🔗 Contact
 - 📧 [Mail: Ajaytamang2130@gmail.com]  
-- 🌐 [LinkedIn: https://www.linkedin.com/in/ajay-tamang-0636772b8/]
+- 🌐 [LinkedIn: https://www.linkedin.com/in/ajaytamang1/]
