@@ -6,12 +6,12 @@
 I designed an interactive Sales Performance Dashboard to analyze total sales, total profit, and total quantity sold along with trends across regions, segments, ship modes, sub-categories, and (Quarterly and yearly) sales performance from 2014–2017, including profit by region. This dashboard provides a clear and easy-to-understand view of business through interactive and visual reports.
 
 ## 🎯Goal and 🚧Challenges:
-The goal of this project wast to Create a user-friendly dashboard to:
+The goal of this project was to create a user-friendly dashboard to:
 - Identify profitable regions and top-selling sub-categories (Top 10).
 - Track quantity sold by segment,region wise (in percentage) and ship mode.
 - Analyze quarterly and yearly sales trends.
 - Support data-driven business decisions.
-<br><b>The challenges</b> faced was working with large and unstructured sales data which required exrtensive data cleaning and transformation for inconsistent data to ensure accuracy.
+<br><b>The challenges</b> faced was working with large and unstructured sales data which required extensive data cleaning and transformation for inconsistent data to ensure accuracy.
 
 ## 🔧 Key Features:
 - Data Cleaning & Preparation: Standardized raw data, corrected formats, and removed inconsistencies.
