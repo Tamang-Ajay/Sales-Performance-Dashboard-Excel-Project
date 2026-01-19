@@ -11,7 +11,7 @@ The goal of this project wast to Create a user-friendly dashboard to:
 - Track quantity sold by segment,region wise (in percentage) and ship mode.
 - Analyze quarterly and yearly sales trends.
 - Support data-driven business decisions.
-The challenges faced was working with large and unstructured sales data which required exrtensive data cleaning and transformation for inconsistent data to ensure accuracy.
+<br>The challenges faced was working with large and unstructured sales data which required exrtensive data cleaning and transformation for inconsistent data to ensure accuracy.
 
 ## 🔧 Key Features:
 - Data Cleaning & Preparation: Standardized raw data, corrected formats, and removed inconsistencies.
